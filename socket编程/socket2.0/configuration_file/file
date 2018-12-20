@@ -1,0 +1,8 @@
+ip=192.168.1
+head=151
+tail=154
+master_port=12345
+master_short_port=12300
+waring_port=12200
+client_port=12100
+master_ip=192.168.1.153
