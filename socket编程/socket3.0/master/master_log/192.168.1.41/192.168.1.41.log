@@ -1,0 +1,3519 @@
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:01  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_8_minutes  0.87 0.97 0.89 949572MB 195936MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_8_minutes  1.20 1.04 0.91 949572MB 195704MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_8_minutes  1.20 1.04 0.91 949572MB 195040MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_9_minutes  1.32 1.07 0.92 949572MB 194340MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_9_minutes  1.32 1.07 0.92 949572MB 195200MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_9_minutes  1.87 1.20 0.97 949572MB 195192MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:12:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_9_minutes  1.87 1.20 0.97 949572MB 194716MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.54 1.21 0.99 949572MB 195048MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.50 1.21 0.99 949572MB 195188MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.86 1.29 1.01 949572MB 194320MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.95 1.32 1.03 949572MB 194316MB 70% 29899MB 15679MB 55% 48°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  2.19 1.38 1.05 949572MB 194980MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  2.10 1.37 1.05 949572MB 195368MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:13:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.93 1.35 1.04 949572MB 191764MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.71 1.32 1.03 949572MB 192036MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.71 1.32 1.03 949572MB 193060MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.57 1.30 1.03 949572MB 193160MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.57 1.30 1.03 949572MB 193020MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.57 1.30 1.03 949572MB 191484MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.57 1.30 1.03 949572MB 191112MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:14:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_10_minutes  1.57 1.30 1.03 949572MB 192688MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:15:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_12_minutes  1.25 1.26 1.04 949572MB 190552MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:15:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_12_minutes  1.15 1.24 1.03 949572MB 189928MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_12_minutes  1.22 1.25 1.04 949572MB 189640MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_12_minutes  1.12 1.23 1.03 949572MB 190312MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_12_minutes  1.11 1.23 1.03 949572MB 190688MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_12_minutes  1.10 1.23 1.03 949572MB 190688MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  1.02 1.20 1.02 949572MB 190336MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  1.09 1.22 1.03 949572MB 190152MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  1.00 1.19 1.02 949572MB 190652MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  1.00 1.19 1.02 949572MB 190580MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  1.00 1.19 1.02 949572MB 190720MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  0.92 1.17 1.02 949572MB 190192MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  0.85 1.15 1.01 949572MB 190656MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:16:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  0.86 1.14 1.01 949572MB 189952MB 70% 29899MB 15679MB 55% 44°C ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  0.79 1.13 1.00 949572MB 190472MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  0.81 1.12 1.00 949572MB 189944MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_13_minutes  0.82 1.12 1.00 949572MB 190308MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.76 1.10 1.00 949572MB 190040MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.78 1.10 1.00 949572MB 190488MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.79 1.10 1.00 949572MB 190748MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.73 1.08 0.99 949572MB 190048MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.67 1.06 0.99 949572MB 192536MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.62 1.04 0.98 949572MB 193136MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.57 1.03 0.98 949572MB 193656MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  0.60 1.03 0.98 949572MB 192852MB 70% 29899MB 15679MB 55% 48°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:17:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  1.12 1.12 1.01 949572MB 191156MB 70% 29899MB 15679MB 55% 49°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  1.27 1.16 1.02 949572MB 193900MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  1.25 1.15 1.02 949572MB 192988MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_14_minutes  1.55 1.22 1.04 949572MB 194132MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  1.50 1.21 1.04 949572MB 193396MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  1.38 1.19 1.04 949572MB 194260MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  1.27 1.17 1.03 949572MB 193456MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  1.17 1.15 1.02 949572MB 193708MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  1.07 1.13 1.02 949572MB 193716MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  0.99 1.11 1.01 949572MB 192472MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  0.91 1.10 1.01 949572MB 193436MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:18:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  0.84 1.08 1.00 949572MB 193576MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  0.85 1.08 1.00 949572MB 193768MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  0.78 1.06 0.99 949572MB 194316MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  0.72 1.04 0.99 949572MB 193960MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_15_minutes  1.22 1.14 1.02 949572MB 194440MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  1.11 1.12 1.02 949572MB 192368MB 70% ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  1.02 1.10 1.01 949572MB 194056MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.94 1.08 1.00 949572MB 193428MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.87 1.06 1.00 949572MB 194148MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.80 1.04 0.99 949572MB 193712MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.73 1.03 0.99 949572MB 193968MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.67 1.01 0.98 949572MB 193276MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:19:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.62 0.99 0.98 949572MB 193676MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.73 1.01 0.98 949572MB 193772MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.75 1.01 0.98 949572MB 192600MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_16_minutes  0.77 1.01 0.98 949572MB 193080MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.71 0.99 0.98 949572MB 190976MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.65 0.97 0.97 949572MB 192428MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.60 0.96 0.97 949572MB 192604MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.79 0.99 0.98 949572MB 194096MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.73 0.98 0.97 949572MB 193856MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.67 0.96 0.97 949572MB 193956MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.70 0.96 0.97 949572MB 193780MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.64 0.94 0.96 949572MB 193604MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:20:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.59 0.93 0.96 949572MB 193736MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.54 0.91 0.95 949572MB 192656MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.50 0.90 0.95 949572MB ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_17_minutes  0.62 0.92 0.95 949572MB 189104MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.81 0.95 0.96 949572MB 188348MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:25  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.83 0.95 0.96 949572MB 189200MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.76 0.93 0.96 949572MB 189216MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.86 0.95 0.96 949572MB 188936MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.79 0.94 0.96 949572MB 189564MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.73 0.92 0.95 ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.67 0.91 0.95 949572MB 189604MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:21:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.61 0.89 0.94 949572MB 189588MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:01  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.98 0.96 0.97 949572MB 188648MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  0.98 0.96 0.97 949572MB 189360MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_18_minutes  1.14 1.00 0.98 949572MB 189760MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  1.05 0.98 0.97 949572MB 189284MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  1.05 0.98 0.97 949572MB 189788MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.96 0.96 0.97 949572MB 189564MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.89 0.95 0.96 949572MB 189436MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.82 0.93 0.96 949572MB 189656MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.83 0.93 0.96 949572MB 189980MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.92 0.95 0.96 949572MB 189304MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.85 0.93 0.96 949572MB 189600MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:22:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.86 0.94 0.96 949572MB 189556MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.79 0.92 0.95 949572MB 189212MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:08  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.73 0.90 0.95 949572MB 190404MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_19_minutes  0.91 0.94 0.96 949572MB 191420MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  0.84 0.92 0.95 949572MB 190936MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  0.77 0.91 0.95 949572MB 190992MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  0.79 0.91 0.95 949572MB 189600MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  0.97 0.95 0.96 949572MB 188116MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  1.29 1.01 0.98 949572MB 190820MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  1.19 1.00 0.98 949572MB 188124MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:23:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  1.00 0.96 0.97 949572MB 188364MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  1.00 0.96 0.97 949572MB 187348MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  1.00 0.96 0.97 949572MB 188232MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  0.92 0.95 0.96 949572MB 188048MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_20_minutes  0.93 0.95 0.96 949572MB 187580MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.09 0.98 0.97 949572MB 187264MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:26  pi2 GNU/Linux ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.16 1.00 0.98 949572MB 188016MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.07 0.98 0.97 949572MB 187860MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.14 1.00 0.98 949572MB 187048MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.27 1.03 0.99 949572MB 187492MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.41 1.07 1.00 949572MB 187596MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:24:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.38 1.07 1.00 949572MB 188220MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:25:02  pi2 GNU/Linux ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:25:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_21_minutes  1.32 1.06 1.00 949572MB 188112MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_26_minutes  1.04 0.94 0.96 949572MB 192928MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.96 0.92 0.96 949572MB 193624MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.88 0.91 0.95 949572MB 193296MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.89 0.91 0.95 949572MB 193092MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.82 0.90 0.95 949572MB 193004MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.75 0.88 0.94 949572MB 193132MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.69 0.87 0.94 949572MB 193540MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.64 0.85 0.93 949572MB 193680MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:30:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.91 0.90 0.95 949572MB 192960MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.83 0.89 0.94 949572MB 193164MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.77 0.87 0.94 949572MB 192984MB 70% 29899MB 15679MB 55% 41°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.79 0.88 0.94 949572MB 193280MB 70% 29899MB 15679MB 55% 41°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_27_minutes  0.72 0.86 0.93 949572MB 192860MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.75 0.86 0.93 949572MB 193228MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.85 0.88 0.94 949572MB 193136MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.78 0.87 0.93 949572MB 193040MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.72 0.85 0.93 949572MB 192536MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.74 0.86 0.93 949572MB 192772MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.84 0.87 0.94 949572MB 193232MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.77 0.86 0.93 949572MB 192860MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:31:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.71 0.85 0.92 949572MB 191260MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.73 0.85 0.93 949572MB 192196MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.85 0.87 0.93 949572MB 192980MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_28_minutes  0.86 0.87 0.93 949572MB 187440MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.79 0.86 0.93 949572MB 193204MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.73 0.84 0.92 949572MB 192664MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.83 0.86 0.93 949572MB 193092MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.76 0.85 0.92 949572MB 193140MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.78 0.85 0.92 949572MB 193132MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.88 0.87 0.93 949572MB 192700MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.89 0.87 0.93 949572MB 192852MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.82 0.86 0.92 949572MB 192212MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:32:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.99 0.89 0.93 949572MB 192896MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.91 0.88 0.93 949572MB 196096MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.84 0.86 0.92 949572MB 195892MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_29_minutes  0.77 0.85 0.92 949572MB 192424MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.87 0.87 0.92 949572MB 192932MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:25  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.80 0.85 0.92 949572MB 193028MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.74 0.84 0.91 949572MB 193200MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.76 0.84 0.91 949572MB 191920MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.78 0.85 0.91 949572MB 196156MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.72 0.83 0.91 949572MB 194800MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.74 0.83 0.91 949572MB 193660MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:33:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  0.92 0.87 0.92 949572MB 192180MB 70% 29899MB 15679MB 55% 49°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:01  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  1.33 0.96 0.95 949572MB 193436MB 70% 29899MB 15679MB 55% 52°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  1.54 1.01 0.96 949572MB 192768MB 70% 29899MB 15679MB 55% 52°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_30_minutes  1.58 1.02 0.97 949572MB 193420MB 70% 29899MB 15679MB 55% 50°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.53 1.02 0.97 949572MB 195204MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.41 1.01 0.97 949572MB 192304MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.38 1.01 0.97 949572MB 191840MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.27 0.99 0.96 949572MB 192956MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.16 0.97 0.96 949572MB 192676MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.15 0.97 0.96 949572MB 192592MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.14 0.97 0.96 949572MB 192912MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.05 0.96 0.95 949572MB 191980MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:34:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.18 0.99 0.96 949572MB 191568MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.09 0.97 0.96 949572MB 192108MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:08  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.24 1.01 0.97 949572MB 190160MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_31_minutes  1.14 0.99 0.96 949572MB 189616MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.05 0.97 0.96 949572MB 191628MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.04 0.97 0.96 949572MB 192132MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.20 1.01 0.97 949572MB 194364MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.10 0.99 0.96 949572MB 192072MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.10 0.99 0.96 949572MB 192664MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.57 1.09 1.00 949572MB 190664MB 70% 29899MB 15679MB 55% 48°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.84 1.16 1.02 949572MB 194800MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:35:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.78 1.15 1.02 949572MB 194104MB 70% 29899MB 15679MB 55% 48°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.71 1.15 1.02 949572MB 194952MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.58 1.13 1.01 949572MB 195132MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.45 1.11 1.01 949572MB 192024MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_32_minutes  1.33 1.09 1.00 949572MB 194316MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.39 1.11 1.01 949572MB 194240MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.36 1.11 1.01 949572MB 195560MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.25 1.09 1.00 949572MB 194752MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.23 1.09 1.00 949572MB 195396MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.21 1.08 1.00 949572MB 194796MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.11 1.07 0.99 949572MB 195156MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.18 1.08 1.00 949572MB 194656MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:36:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.25 1.10 1.01 949572MB 195436MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.15 1.08 1.00 949572MB 190640MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.22 1.09 1.01 949572MB 189376MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_33_minutes  1.20 1.09 1.00 949572MB 191608MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.10 1.07 1.00 949572MB 190028MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.01 1.06 0.99 949572MB 191912MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  0.93 1.04 0.99 949572MB 190136MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:33  pi2 GNU/Linux ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  0.79 1.00 0.98 949572MB 191800MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  0.73 0.99 0.97 949572MB 191480MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.08 1.05 0.99 949572MB 191252MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.23 1.09 1.01 949572MB 190408MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:37:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.21 1.08 1.01 949572MB 189780MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.11 1.07 1.00 949572MB 190988MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.19 1.08 1.01 949572MB 192128MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_34_minutes  1.09 1.06 1.00 949572MB 191328MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.00 1.05 0.99 949572MB 191520MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  0.92 1.03 0.99 949572MB 191672MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.09 1.06 1.00 949572MB 191624MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.08 1.06 1.00 949572MB 190548MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.00 1.04 0.99 949572MB 191280MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  0.91 1.02 0.99 949572MB 191256MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.00 1.04 1.00 949572MB 191756MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:38:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.00 1.04 1.00 949572MB 190668MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:01  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.00 1.04 1.00 949572MB 192240MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  1.00 1.04 1.00 949572MB 189768MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  0.92 1.02 0.99 949572MB 191476MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_35_minutes  0.85 1.00 0.99 949572MB 191316MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.78 0.99 0.98 949572MB 189108MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.72 0.97 0.97 949572MB 191512MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.74 0.97 0.98 949572MB 191572MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.68 0.95 0.97 949572MB 191380MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.62 0.94 0.96 949572MB 188732MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.81 0.97 0.98 949572MB 190840MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.91 0.99 0.98 949572MB 190984MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:39:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.84 0.97 0.98 949572MB 191148MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.77 0.96 0.97 949572MB 191692MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:08  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.79 0.96 0.97 949572MB 191108MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_36_minutes  0.81 0.96 0.97 949572MB 191756MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.74 0.94 0.97 949572MB 191304MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.68 0.93 0.96 949572MB 191420MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.88 0.96 0.97 949572MB 190768MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.89 0.96 0.97 949572MB 189308MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.82 0.95 0.97 949572MB 190676MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.75 0.93 0.96 949572MB 189388MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.69 0.92 0.96 949572MB 191504MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:40:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  1.04 0.98 0.98 949572MB 191372MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  1.03 0.98 0.98 949572MB 190636MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.95 0.97 0.97 949572MB 191580MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.87 0.95 0.97 949572MB 191596MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_37_minutes  0.80 0.93 0.96 949572MB 191492MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.74 0.92 0.96 949572MB 191248MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.68 0.90 0.95 949572MB 191048MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.62 0.89 0.95 949572MB 190912MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.57 0.87 0.94 949572MB 191312MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:41  pi2 GNU/Linux 4.9.41-v7+  ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.63 0.88 0.94 949572MB 191584MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.58 0.86 0.94 949572MB 191172MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:41:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.54 0.85 0.93 949572MB 194772MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:01  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.49 0.83 0.93 949572MB 194608MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.53 0.84 0.93 949572MB 192480MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_38_minutes  0.65 0.86 0.93 949572MB 193148MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  0.92 0.91 0.95 949572MB 190768MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  0.93 0.91 0.95 949572MB 195008MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  0.93 0.91 0.95 949572MB 190092MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  0.86 0.90 0.95 949572MB 191752MB 70% 29899MB 15679MB 55% 46°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  0.87 0.90 0.95 949572MB 190640MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  0.80 0.88 0.94 949572MB 191404MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  1.14 0.95 0.96 949572MB 191196MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  1.12 0.95 0.96 949572MB 190700MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:42:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  1.11 0.95 0.96 949572MB 189860MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  1.19 0.97 0.97 949572MB 191368MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:08  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  1.09 0.95 0.96 949572MB 190464MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_39_minutes  1.00 0.94 0.96 949572MB 189260MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.92 0.92 0.95 949572MB 190340MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.93 0.92 0.95 949572MB 190860MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.85 0.91 0.95 949572MB 191116MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.88 0.91 0.95 949572MB 190096MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.81 0.90 0.94 949572MB 190728MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.74 0.88 0.94 949572MB 191012MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.84 0.90 0.94 949572MB 190828MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:43:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.86 0.90 0.94 949572MB 190892MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  1.03 0.94 0.96 949572MB 188316MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.94 0.92 0.95 949572MB 190708MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.87 0.91 0.95 949572MB 190468MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_40_minutes  0.80 0.89 0.94 949572MB 190840MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  0.82 0.89 0.94 949572MB 190616MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  0.91 0.91 0.95 949572MB 190192MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  0.92 0.91 0.95 949572MB 190148MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.08 0.95 0.96 949572MB 190640MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.08 0.95 0.96 949572MB 190388MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  0.99 0.93 0.95 949572MB 190192MB 70% 29899MB 15679MB 55% 47°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.07 0.95 0.96 949572MB 190060MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:44:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.39 1.02 0.98 949572MB 190020MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.28 1.00 0.98 949572MB 190380MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.17 0.98 0.97 949572MB 190380MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_41_minutes  1.16 0.99 0.97 949572MB 187984MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.07 0.97 0.97 949572MB 190476MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  0.98 0.95 0.96 949572MB 190552MB 70% 29899MB 15679MB 55% 43°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  0.90 0.94 0.95 949572MB 190912MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.15 0.99 0.97 949572MB 189916MB 70% 29899MB 15679MB 55% 45°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.38 1.04 0.99 949572MB 190860MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.27 1.02 0.98 949572MB 190324MB 70% 29899MB 15679MB 55% 44°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.49 1.07 1.00 949572MB 190432MB 70% 29899MB 15679MB 55% 42°C  
+disk->normal  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:53  pi2 GNU/Linux 4.9.41-v7+  ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:45:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.71 1.13 1.02 949572MB 187868MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.65 1.13 1.02 949572MB 187856MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.60 1.13 1.02 949572MB 188656MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_42_minutes  1.47 1.11 1.01 949572MB 188168MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.35 1.09 1.01 949572MB 187644MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.24 1.07 1.00 949572MB 188016MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.20 1.07 1.00 949572MB ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.10 1.05 1.00 949572MB 187640MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.10 1.05 1.00 949572MB 186140MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.01 1.03 0.99 949572MB 187744MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  0.93 1.02 0.99 949572MB 188052MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:46:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  0.93 1.02 0.99 949572MB 187308MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  0.86 1.00 0.98 949572MB 186088MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.03 1.03 0.99 949572MB 187508MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.19 1.06 1.00 949572MB 188144MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_43_minutes  1.17 1.06 1.00 949572MB 186908MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  1.08 1.04 1.00 949572MB 187944MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.99 1.03 0.99 949572MB 187224MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.99 1.03 0.99 949572MB 184516MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  1.07 1.04 1.00 949572MB 186796MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.99 1.03 0.99 949572MB 187296MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.91 1.01 0.99 949572MB 187552MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.92 1.01 0.99 949572MB 185752MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:47:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.84 0.99 0.98 949572MB 186688MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.77 0.97 0.98 949572MB 187792MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.71 0.96 0.97 949572MB 187668MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_44_minutes  0.65 0.94 0.97 949572MB 187812MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.60 0.93 0.96 949572MB 186772MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.55 0.91 0.95 949572MB 188068MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.51 0.89 0.95 949572MB 186908MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.47 0.88 0.94 949572MB 185288MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.51 0.88 0.94 949572MB 187336MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.55 0.88 0.95 949572MB 188420MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.51 0.87 0.94 949572MB 187728MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.55 0.87 0.94 949572MB 188252MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:48:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.50 0.86 0.93 949572MB 187552MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.46 0.84 0.93 949572MB 187924MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.58 0.86 0.94 949572MB 187984MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_45_minutes  0.64 0.87 0.94 949572MB 187996MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.67 0.87 0.94 949572MB 187276MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:25  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.62 0.85 0.93 949572MB 187696MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.57 0.84 0.93 949572MB 187592MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.52 0.83 0.92 949572MB 187392MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.48 0.81 0.91 949572MB 187548MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.60 0.83 0.92 949572MB 185456MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.55 0.82 0.92 949572MB 187364MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:49:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.51 0.80 0.91 949572MB 184496MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:01  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.47 0.79 0.90 949572MB 186596MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.43 0.78 0.90 949572MB 184324MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_46_minutes  0.40 0.76 0.89 949572MB 186644MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.36 0.75 0.89 949572MB 187020MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.39 0.74 0.89 949572MB 185740MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.44 0.75 0.89 949572MB 185152MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.40 0.73 0.88 949572MB 186808MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.37 0.72 0.88 949572MB 186732MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.42 0.73 0.88 949572MB 186008MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.39 0.71 0.87 949572MB 185792MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:50:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.60 0.75 0.89 949572MB 186692MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.55 0.74 0.88 949572MB 186212MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:08  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.50 0.73 0.88 949572MB 185480MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_47_minutes  0.62 0.75 0.88 949572MB 185212MB 80% ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  0.65 0.75 0.88 949572MB 185880MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.08 0.84 0.91 949572MB 186476MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.00 0.83 0.91 949572MB 185276MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.08 0.85 0.91 949572MB 186096MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  0.99 0.83 0.91 949572MB 185672MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.07 0.85 0.91 949572MB 185884MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:51:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.20 0.89 0.92 949572MB 185636MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.19 0.89 0.92 949572MB 185780MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.09 0.88 0.92 949572MB 185472MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.08 0.88 0.92 949572MB 185968MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_48_minutes  1.00 0.87 0.91 949572MB 185652MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  1.00 0.87 0.91 949572MB 185840MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  1.00 0.87 0.92 949572MB 185484MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.92 0.86 0.91 949572MB 186552MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.84 0.84 0.90 949572MB 184016MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.78 0.83 0.90 949572MB 186260MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.71 0.81 0.89 949572MB 185308MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.74 0.82 0.90 949572MB 186152MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:52:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.76 0.82 0.90 949572MB 185372MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.78 0.82 0.90 949572MB 185936MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.71 0.81 0.89 949572MB 184588MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_49_minutes  0.74 0.81 0.89 949572MB 185484MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.68 0.80 0.89 949572MB ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.62 0.79 0.88 949572MB 185596MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.65 0.79 0.89 949572MB 185176MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.60 0.78 0.88 949572MB 184740MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.87 0.83 0.90 949572MB 183304MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.80 0.82 0.89 949572MB 185724MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.74 0.80 0.89 949572MB 185300MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.68 0.79 0.88 949572MB 185960MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:53:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.71 0.79 0.88 949572MB 183084MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.73 0.80 0.88 949572MB 185500MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.67 0.78 0.88 949572MB 184480MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_50_minutes  0.62 0.77 0.87 949572MB 184812MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.57 0.76 0.87 949572MB 183556MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:25  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.68 0.78 0.88 949572MB 185048MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.65 0.77 0.87 949572MB 183980MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.60 0.75 0.87 949572MB 182068MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.71 0.78 0.87 949572MB 184800MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.81 0.80 0.88 949572MB 181600MB 80% ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.75 0.78 0.88 949572MB 182656MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:54:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.85 0.80 0.88 949572MB 184628MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.78 0.79 0.88 949572MB 184884MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.72 0.78 0.87 949572MB 182964MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_51_minutes  0.90 0.81 0.88 949572MB 184792MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.91 0.82 0.88 949572MB 182948MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.92 0.82 0.89 949572MB 183492MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.84 0.81 0.88 949572MB 184508MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  1.02 0.84 0.89 949572MB 182232MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  1.01 0.85 0.89 949572MB 181680MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:43  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.93 0.83 0.89 949572MB 182460MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:48  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.86 0.82 0.88 949572MB 184836MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:53  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.79 0.80 0.88 949572MB 184360MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:55:58  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.81 0.81 0.88 949572MB 182764MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.82 0.81 0.88 949572MB 184076MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.76 0.80 0.88 949572MB 185020MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_52_minutes  0.70 0.78 0.87 949572MB 182048MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:19  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.64 0.77 0.87 949572MB 182768MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:24  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.67 0.77 0.87 949572MB 182452MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:29  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.86 0.81 0.88 949572MB 185124MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.95 0.83 0.89 949572MB 182228MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.87 0.82 0.88 949572MB 185072MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.80 0.80 0.88 949572MB 182136MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.74 0.79 0.87 949572MB 184764MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:56:55  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.68 0.78 0.87 949572MB 184568MB 80% 29899MB 15679MB 55% 42°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:00  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.70 0.78 0.87 949572MB 184628MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:05  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.65 0.77 0.86 949572MB 183340MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  0.92 0.82 0.88 949572MB 183456MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_53_minutes  1.07 0.86 0.89 949572MB 184004MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.98 0.85 0.89 949572MB 183784MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:26  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.90 0.83 0.88 949572MB 183268MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:31  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.83 0.82 0.88 949572MB 183112MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.76 0.80 0.87 949572MB 183544MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.70 0.79 0.87 949572MB 183020MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.73 0.79 0.87 949572MB 183180MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.75 0.80 0.87 949572MB 181380MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:57:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.69 0.78 0.86 949572MB 182692MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.87 0.82 0.88 949572MB 183580MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.80 0.81 0.87 949572MB 183116MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_54_minutes  0.82 0.81 0.87 949572MB 181880MB 80% 29899MB 15679MB 55% 44°C ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.83 0.81 0.87 949572MB 182780MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.85 0.82 0.87 949572MB 182788MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.78 0.80 0.87 949572MB 183052MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:33  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.88 0.82 0.87 949572MB 183248MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:38  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.81 0.81 0.87 949572MB 181760MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.74 0.80 0.87 949572MB 183608MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:49  pi2 GNU/Linux 4.9.41-v7+  ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.78 0.80 0.87 949572MB 182696MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:58:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.71 0.79 0.86 949572MB 182524MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  0.90 0.83 0.87 949572MB 182528MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:09  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  1.07 0.86 0.89 949572MB 183140MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:14  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_55_minutes  1.06 0.86 0.89 949572MB 183252MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  0.97 0.85 0.88 949572MB 183472MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:25  pi2 GNU/Linux 4.9.41-v7+  ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  0.91 0.84 0.88 949572MB 183244MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:35  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  0.83 0.82 0.87 949572MB 179572MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:40  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  0.93 0.84 0.88 949572MB 182888MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:45  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  1.01 0.86 0.89 949572MB 182780MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:50  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  1.01 0.87 0.89 949572MB 183140MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_13:59:56  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  0.93 0.85 0.88 949572MB 181828MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:01  pi2 ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:06  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  1.28 0.94 0.91 949572MB 181892MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:11  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_56_minutes  1.26 0.94 0.91 949572MB 181852MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:16  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  1.16 0.92 0.90 949572MB 183036MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:21  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  1.06 0.91 0.90 949572MB 182792MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.98 0.89 0.89 949572MB 182880MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.90 0.88 0.89 949572MB 184660MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:37  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.91 0.88 0.89 949572MB 186180MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:42  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.91 0.88 0.89 949572MB 185456MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:47  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.84 0.87 0.89 949572MB 186132MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:52  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.77 0.85 0.88 949572MB 184648MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:00:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.95 0.89 0.89 949572MB 185148MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:03  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.88 0.87 0.89 949572MB 185420MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:08  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.81 0.86 0.88 949572MB 184760MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:13  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_57_minutes  0.74 0.85 0.88 949572MB 185576MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:18  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.68 0.83 0.87 949572MB 185348MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:23  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.79 0.85 0.88 949572MB 184844MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:28  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.72 0.84 0.88 949572MB 185376MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:34  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.75 0.84 0.88 949572MB 184908MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:39  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.69 0.83 0.87 949572MB 185100MB 80% 29899MB 15679MB 55% 43°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:44  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.71 0.83 0.87 949572MB 185464MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:49  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.97 0.88 0.89 949572MB 185860MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:54  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.90 0.87 0.89 949572MB 185512MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:01:59  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.82 0.85 0.88 949572MB 185164MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:04  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.84 0.85 0.88 949572MB 184460MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:10  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.85 0.86 0.88 949572MB 184324MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:15  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_58_minutes  0.78 0.84 0.88 949572MB 180888MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:20  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.72 0.83 0.87 949572MB 184056MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:25  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.66 0.81 0.87 949572MB 184160MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:30  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.69 0.82 0.87 949572MB 184020MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:36  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.63 0.80 0.86 949572MB 184396MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:41  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.58 0.79 0.86 949572MB 183884MB 80% 29899MB 15679MB 55% 43°C ------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:46  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.54 0.78 0.85 949572MB 184036MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:51  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.83 0.83 0.87 949572MB 183564MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:02:57  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.76 0.82 0.87 949572MB 183148MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:02  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.70 0.81 0.86 949572MB 184124MB 80% 29899MB 15679MB 55% 44°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:07  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.89 0.84 0.87 949572MB 182392MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:12  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_4_hours,_59_minutes  0.81 0.83 0.87 949572MB 185132MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:17  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_5_hours  0.83 0.83 0.87 949572MB 181432MB 80% 29899MB 15679MB 55% 47°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:22  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_5_hours  0.84 0.83 0.87 949572MB 184856MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:27  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_5_hours  0.94 0.85 0.88 949572MB 182656MB 80% 29899MB 15679MB 55% 46°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_14:03:32  pi2 GNU/Linux 4.9.41-v7+  up_3_weeks,_1_day,_5_hours  0.86 0.84 0.87 949572MB 185180MB 80% 29899MB 15679MB 55% 45°C  
+disk->note  
+rmb->note  
+cpu->normal  
+------------
