@@ -1,0 +1,14 @@
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181223_19:47:17  peranda GNU/Linux 4.15.0-29deepin-generic  up_49_minutes  0.24 0.36 0.30 8048384MB 4396160MB 40% 62134MB 17393MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181224_11:13:36  peranda GNU/Linux 4.15.0-29deepin-generic  up_10_minutes  0.15 0.32 0.33 8048384MB 5142668MB 30% 62134MB 17360MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 62°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
