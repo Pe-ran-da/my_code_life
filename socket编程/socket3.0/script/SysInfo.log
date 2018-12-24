@@ -1,0 +1,308 @@
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:32:35  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_11_minutes  0.12 0.18 0.22 8048376MB 4983992MB 30% 62134MB 17264MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 62°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:48:13  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_27_minutes  0.12 0.10 0.10 8048376MB 4949568MB 30% 62134MB 17264MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:49:53  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_28_minutes  0.15 0.11 0.10 8048376MB 4926656MB 30% 62134MB 17264MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 55°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:51:33  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_30_minutes  0.41 0.23 0.14 8048376MB 4946860MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 64°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:53:13  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_32_minutes  0.23 0.23 0.15 8048376MB 4948108MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 54°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:54:54  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_33_minutes  0.09 0.19 0.14 8048376MB 4946472MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 49°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:56:34  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_35_minutes  0.66 0.32 0.19 8048376MB 4946596MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:58:14  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_37_minutes  0.40 0.31 0.19 8048376MB 4946472MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 59°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_11:59:54  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_38_minutes  0.42 0.34 0.21 8048376MB 4945844MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 65°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:01:34  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_40_minutes  0.57 0.38 0.23 8048376MB 4945740MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 51°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:03:14  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_42_minutes  0.36 0.35 0.24 8048376MB 4945556MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 48°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:04:54  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_43_minutes  0.55 0.41 0.27 8048376MB 4943800MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 56°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:06:34  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_45_minutes  0.17 0.32 0.25 8048376MB 4863756MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 66°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:08:14  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_47_minutes  0.54 0.35 0.27 8048376MB 4897772MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:09:54  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_49_minutes  0.10 0.25 0.24 8048376MB 4896684MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 54°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:11:34  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_50_minutes  0.02 0.17 0.21 8048376MB 4898036MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 61°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:13:14  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_52_minutes  0.33 0.23 0.22 8048376MB 4938464MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 65°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:14:54  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_54_minutes  0.15 0.20 0.21 8048376MB 4938568MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 48°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:16:34  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_55_minutes  0.29 0.23 0.21 8048376MB 4938144MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 57°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:18:14  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_57_minutes  0.18 0.20 0.20 8048376MB 4938764MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 63°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:19:54  peranda GNU/Linux 4.15.0-29deepin-generic  up_2_hours,_59_minutes  0.25 0.24 0.21 8048376MB 4937860MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:21:34  peranda GNU/Linux 4.15.0-29deepin-generic  up_3_hours  0.16 0.20 0.19 8048376MB 4938728MB 30% 62134MB 17265MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 51°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:23:14  peranda GNU/Linux 4.15.0-29deepin-generic  up_3_hours,_2_minutes  0.59 0.31 0.22 8048376MB 4881656MB 30% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 57°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:26:59  peranda GNU/Linux 4.15.0-29deepin-generic  up_3_hours,_6_minutes  0.17 0.25 0.21 8048376MB 4870072MB 30% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 61°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_12:28:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_3_hours,_7_minutes  0.81 0.50 0.31 8048376MB 4860444MB 30% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 51°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:10:09  peranda GNU/Linux 4.15.0-29deepin-generic  up_4_hours,_49_minutes  0.09 0.11 0.09 8048376MB 4824196MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 52°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:11:49  peranda GNU/Linux 4.15.0-29deepin-generic  up_4_hours,_50_minutes  0.45 0.23 0.13 8048376MB 4843352MB 30% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 61°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:27:06  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_6_minutes  0.42 0.40 0.27 8048376MB 4802336MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:27:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_6_minutes  0.38 0.39 0.27 8048376MB 4799516MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 50°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:29:19  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_8_minutes  0.17 0.32 0.26 8048376MB 4800920MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 48°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:30:59  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_10_minutes  0.26 0.29 0.25 8048376MB 4801384MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 55°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:32:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_11_minutes  0.07 0.22 0.23 8048376MB 4805028MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 62°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:34:19  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_13_minutes  0.13 0.21 0.22 8048376MB 4804624MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 53°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:35:59  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_15_minutes  0.04 0.16 0.20 8048376MB 4801200MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 48°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:37:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_16_minutes  0.29 0.21 0.21 8048376MB 4803384MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 56°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:39:19  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_18_minutes  0.39 0.26 0.23 8048376MB 4804372MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 58°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:40:59  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_20_minutes  0.83 0.50 0.32 8048376MB 4785432MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 48°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:42:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_21_minutes  0.37 0.43 0.31 8048376MB 4788968MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 57°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:44:19  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_23_minutes  0.12 0.32 0.27 8048376MB 4785016MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 63°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:45:59  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_25_minutes  0.17 0.28 0.26 8048376MB 4788376MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 53°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:47:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_26_minutes  0.24 0.28 0.27 8048376MB 4785336MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 49°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:49:19  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_28_minutes  0.25 0.27 0.27 8048376MB 4784180MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 54°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:50:59  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_30_minutes  0.22 0.24 0.25 8048376MB 4785020MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 63°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
+------------
+time    hostname    OS   root版本   runtime  平均负载　　磁盘总量　　磁盘所用百分比　内存大小　　内存已用百分比　cpu温度　　　磁盘警报级别　　内存警报级别　　cpu警报级别
+20181219_14:52:39  peranda GNU/Linux 4.15.0-29deepin-generic  up_5_hours,_31_minutes  0.38 0.28 0.27 8048376MB 4784452MB 40% 62134MB 17267MB 30% 262148MB 19606MB 8% 165378MB 65019MB 40% 7746MB 18MB 1% 122881MB 56764MB 47% 453MB 230MB 55% 323779MB 34353MB 11% 51°C  
+disk->normal  
+rmb->normal  
+cpu->normal  
+------------
